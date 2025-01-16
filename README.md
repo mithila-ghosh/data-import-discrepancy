@@ -23,6 +23,16 @@ This project aims to identify missing encounters from a client's **Electronic He
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/mithila-ghosh/data-import-discrepancy.git
+   
+2. **Navigate to the project directory**
+   cd data-import-discrepancy
+
+3. **Install the required dependencies**
+   pip install -r requirements.txt
+
+4. **Run the analysis script**
+   python missing_data_analysis.py
+
 ### **Key Findings:**
 
 * **Missing Values**: Identified missing values in key fields such as **Provider Name**, **Date of Service**, and **CPT Code**.
