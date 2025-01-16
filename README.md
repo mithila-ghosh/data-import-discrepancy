@@ -20,9 +20,7 @@ This project aims to identify missing encounters from a client's **Electronic He
 - `missing_data_report.txt`: Detailed report summarizing the analysis and findings.
   
 ### **How to Run the Code:**
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/mithila-ghosh/data-import-discrepancy.git
+1. **Clone the repository**: git clone https://github.com/mithila-ghosh/data-import-discrepancy.git
    
 2. **Navigate to the project directory**
     cd data-import-discrepancy
