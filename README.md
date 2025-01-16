@@ -25,13 +25,13 @@ This project aims to identify missing encounters from a client's **Electronic He
    git clone https://github.com/mithila-ghosh/data-import-discrepancy.git
    
 2. **Navigate to the project directory**
-   cd data-import-discrepancy
+    cd data-import-discrepancy
 
 3. **Install the required dependencies**
-   pip install -r requirements.txt
+    pip install -r requirements.txt
 
 4. **Run the analysis script**
-   python missing_data_analysis.py
+    python missing_data_analysis.py
 
 ### **Key Findings:**
 
