@@ -18,7 +18,11 @@ This project aims to identify missing encounters from a client's **Electronic He
 - `missing_data_analysis.py`: Python script for analyzing the missing encounters.
 - `visualize_missing_data.py`: Script to visualize patterns in missing data.
 - `missing_data_report.txt`: Detailed report summarizing the analysis and findings.
-
+  
+### **How to Run the Code:**
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/mithila-ghosh/data-import-discrepancy.git
 ### **Key Findings:**
 
 * **Missing Values**: Identified missing values in key fields such as **Provider Name**, **Date of Service**, and **CPT Code**.
